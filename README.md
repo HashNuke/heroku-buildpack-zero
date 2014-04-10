@@ -1,6 +1,8 @@
 # Heroku Buildpack Zero (for static sites)
 
-My attempt at writing the smallest buildpack. The goal was to stay within the 150 chars limit. The whole buildpack is 112 characters. And it [fits in a tweet](https://twitter.com/HashNuke/status/454238654446043136)
+My attempt at writing the smallest buildpack. The goal was to stay within the 150 chars limit. The whole buildpack is 112 characters. And it [fits in a tweet](https://twitter.com/HashNuke/status/454238654446043136).
+
+I also [tweeted](https://twitter.com/HashNuke/status/454239536642400257) about it.
 
 ```
 $ wc -m bin/*
