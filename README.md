@@ -12,7 +12,8 @@ $ wc -m bin/*
      112 total
 ```
 
-This uses a single threaded web server. So don't try to host cat pictures using this.
+This uses a single threaded web server. I'm trying very hard to crack a joke. Please do not host anything serious with this buildpack :)
+
 
 ## Usage
 
